@@ -4,10 +4,10 @@ library(jsonlite)
 library(tidyverse)
 
 # change your working directory
-setwd("C:/Users/alexc/Desktop/R_ag")
+# setwd("C:/Users/alexc/Desktop/R_ag")
 
 # PUT YOUR API KEY IN YOUR ENV FILE
-readRenviron(".Renviron")
+# readRenviron(".Renviron")
 
 
 # NASS API function -------------------------------------------------------AP
